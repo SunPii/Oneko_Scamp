@@ -22,7 +22,11 @@
 
   const nekoSpeed = 10;
   const spriteSets = {
-    idle: [[-3, -3]],
+    idle: [    
+      [-5, -3],
+      [-6, -1],
+      [-5, -4],
+      [-5, -5],],
     alert: [[-7, -3]],
     scratchSelf: [
       [-5, 0],
