@@ -158,7 +158,7 @@
 
   function resetIdleAnimation() {
     idleAnimation = null;
-    idleAnimationFrame = 0;
+    idleAnimationFrame = 1;
   }
 
   function idle() {
