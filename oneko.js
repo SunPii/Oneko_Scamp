@@ -87,8 +87,8 @@
   function init() {
     nekoEl.id = "oneko";
     nekoEl.ariaHidden = true;
-    nekoEl.style.width = "64px";
-    nekoEl.style.height = "64px";
+    nekoEl.style.width = "200px";
+    nekoEl.style.height = "200px";
     nekoEl.style.position = "fixed";
     nekoEl.style.pointerEvents = "none";
     nekoEl.style.imageRendering = "pixelated";
