@@ -100,7 +100,7 @@
     NW: [
       [-1, 0],
       [-1, -1],
-      [-2, 4],
+      [-2, -4],
       [-2, -5],
     ],
   };
@@ -158,7 +158,7 @@
 
   function resetIdleAnimation() {
     idleAnimation = null;
-    idleAnimationFrame = 1;
+    idleAnimationFrame = 0;
   }
 
   function idle() {
